@@ -25,7 +25,7 @@ The model achieved the following metrics:
 ## How to Run the Project
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Wildfire-Detection-ViTs.git
+    git clone https://github.com/aarya-pabha/Wildfire-Detection-using-Vision-Transformers.git
     ```
 2. Install dependencies:
     ```bash
